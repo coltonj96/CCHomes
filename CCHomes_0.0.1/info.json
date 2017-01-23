@@ -1,0 +1,11 @@
+{
+  "name": "CCHomes",
+  "version": "0.0.1",
+  "title": "CC Homes",
+  "author": "coltonj96",
+  "contact": "",
+  "homepage": "",
+  "description": "An addon for CustomCommands that adds a command to set homes that can be telported to",
+  "factorio_version": "0.14",
+  "dependencies": ["base >= 0.11.1", "CustomCommands >= 0.0.2"]
+ }
